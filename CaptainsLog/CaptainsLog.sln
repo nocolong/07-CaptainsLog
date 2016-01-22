@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaptainsLog", "CaptainsLog\CaptainsLog.csproj", "{FD484F3E-5452-44F2-980D-DD01CA67183A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaptainsLog.Core", "CaptainsLog.Core\CaptainsLog.Core.csproj", "{8F329C2E-755E-4902-B20D-2275AF9D972C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD484F3E-5452-44F2-980D-DD01CA67183A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD484F3E-5452-44F2-980D-DD01CA67183A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD484F3E-5452-44F2-980D-DD01CA67183A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD484F3E-5452-44F2-980D-DD01CA67183A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F329C2E-755E-4902-B20D-2275AF9D972C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F329C2E-755E-4902-B20D-2275AF9D972C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F329C2E-755E-4902-B20D-2275AF9D972C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F329C2E-755E-4902-B20D-2275AF9D972C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
